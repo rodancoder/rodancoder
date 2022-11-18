@@ -1,6 +1,5 @@
 ### Hola! soy Rodrigo Gutierrez
-
-<div style="display: grid grid-template-colums: repeat(2, 1fr)" align="center">
+<div  align="center" class="stats">
   
   <a href="https://github.com/rodrigoandregg">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=rodrigoandregg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
