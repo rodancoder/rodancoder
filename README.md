@@ -22,8 +22,7 @@
   <a href="https://twitter.com/soyrodrigoandre" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
 </div>
-
----
+<!--
   <a href='#' title="" target='_blank'>
   <img width='32%'  src='https://i.pinimg.com/564x/c2/a1/d8/c2a1d8dfa12679f1f1f1659b82c724ee.jpg' alt='' />
 </a>
@@ -42,3 +41,4 @@
 <a href='#' title="" target='_blank'>
   <img width='320' src='https://i.pinimg.com/564x/f3/25/30/f325309ebd63a9bf8a6371ef7b8e0181.jpg' alt='' />
 </a>
+  -->
